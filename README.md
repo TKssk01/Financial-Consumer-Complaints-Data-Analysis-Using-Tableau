@@ -78,7 +78,12 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
 -->
 
+
+
 ## Insight Gained:
+
+![FCC Overview (1)](https://github.com/TKssk01/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau/assets/149182031/73b508df-d22c-426d-81f7-1c0ee3663c01)
+
 
     • 75,513 - Total number of Complaints were recovered.
    
