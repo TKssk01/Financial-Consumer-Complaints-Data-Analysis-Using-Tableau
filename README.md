@@ -10,12 +10,7 @@ Analysing Financial Consumer Complaints Data with using Tableau
 ## OVERVIEW:
     PROJECT NAME
     ABOUT PROJECT
-    APPROACH - PROJECT PLANNING & AIMS GRID
-    DASHBOARD CONTENT
-    DASHBOARD
     INSIGHT GAIN
-    RESULT
-    NOTE
 
 ## PROJECT NAME:
 
@@ -23,11 +18,11 @@ Financial Consumer Complaints Data Analysis Using Tableau Dashboard / KPI Analys
 
 ## ABOUT PROJECT:
 
-Developed Financial Consumer Complaints Dashboard which tracks all complaints and analyses trends in all categories. It's a Business ready Dashboard that allows employees to make data-driven decisions by evaluating each KPI Metric. The Inspiration for this dashboard is taken from Gandes Goldestan. It is a dynamic dashboard, where any user able to select date range at the top right of dashboard and can see the magic of map and chart.
+Developed Financial Consumer Complaints Dashboard which tracks all complaints and analyses trends in all categories. It's a Business ready Dashboard that allows employees to make data-driven decisions by evaluating each KPI Metric. It is a dynamic dashboard, where any user able to select date range at the top right of dashboard.
 
-## APPROACH - PROJECT PLANNING & AIMS GRID: 
+<!--## APPROACH - PROJECT PLANNING & AIMS GRID: 
 
-<!--### 1. Purpose: What? Why? What do we want to achieve?
+### 1. Purpose: What? Why? What do we want to achieve?
 
       It is critical to analyses customer complaint data to determine the root reasons of consumer unhappiness 
       and make necessary modifications. By analyzing, how intelligent computing may be utilized to better understand 
@@ -81,26 +76,34 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
    4) I received inspiration for the 'Hex Tile Maps' from 'Sir Viz-a-lot' blogs by "Matt Chambers, MBA".
 
+-->
+
 ## Insight Gained:
 
-    • 75,513 - Total number of Complaints were recovered. ¬
+    • 75,513 - Total number of Complaints were recovered.
    
     • 98.05% of responses by bank were delivered in time as shown by horizontal bar chart.
    
     • There were 283 complaints pending which, a minute 0.37% of the total Companies’ response to Consumer. It implies that Bank is quick in handling cases majorly.
+
+    • The Disputed Rate was 9.75%. This refers to the procedure for filing disputes regarding fraudulent card use or issues with transactions.
    
     • 84.52% of cases were resolved with NO monetary relief.
-   
-    • The Highest Number of Complaints wrt to Products/Services were found in as follows; o Credit Card ~ 19,176 (25.36%) o Checking or Saving Account ~ 13,436(17.79%) o Mortgage ~ 12,470 (16.51%)
-   
+
     • There were 31,203 complaints in Customer Dispute Cases approximately 40% of the total. Whereas 50% of the complaints are in ‘NA’ category. Here 2 Pie Chart were created and dual axis feature was used.
+    ※ For complaints arising from different states, I created ‘hex map’ for better view. States with highest number of complaints was shown in darker shade. States with small number of complaints was shown in lighter shade. The intensity of shade from darker to lighter were used for corresponding number of complaints.
+    
+    • 50.9% of the Complaints were submitted via the web.
+
+    •　　Looking at the attributes of the customers who received complaints, approximately 90% were ordinary people. 7.39% were elderly people and 4.47% were service managers.
    
-    • Almost 50% of the Complaints were submitted via Internet ie. Website, Portal, Mobile App etc.
-   
-    • Consumers’ top issue was regarding ‘Managing an Account’, followed by Deposits & Withdrawal.
-   
-    • For complaints arising from different states, I created ‘hex map’ for better view. States with highest number of complaints was shown in darker shade. States with small number of complaints was shown in lighter shade. The intensity of shade from darker to lighter were used for corresponding number of complaints.
-   
+    • The Highest Number of Complaints wrt to Products/Services were found in as follows; o Credit Card ~ 19,176 (25.39%) o Checking or Saving Account ~ 13,436(17.79%) o Mortgage ~ 12,470 (16.51%)
+    
+    • Looking at customer satisfaction, 9.75% were satisfied. 41.32% were not satisfied and 48.93% did not respond.
+
+
+
+<!--
 ## Results
 
    1) I observed that from 2012 to 2021 total no of complaints filed are 75,513, out of 75,513 total response which are in progress is 283.
@@ -110,18 +113,20 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
    3) Maximum complaint are submitted via web approx. 40k.
 
    4) If we talk about product, Maximum no. of complaints are of credit card.
-   -->
+-->
 
-
-<!--## NOTE:
+<!--
+## NOTE:
 
 ### Here is Dashboard in Black. Tell me which one do you like??
 
-![FC OVERVIEW BLACK](https://user-images.githubusercontent.com/124501309/224552451-951db0d3-48f4-4467-b602-8561751a0eb5.png)-->
+![FC OVERVIEW BLACK](https://user-images.githubusercontent.com/124501309/224552451-951db0d3-48f4-4467-b602-8561751a0eb5.png)
+-->
 
 ## My Other Projects:
 
-<!--- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
+<!--
+- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
 
 - [HR Analytics using Tableau](https://github.com/gulshang7/HR-Analytics-Dashboard-Using-Tableau) 📜
 
