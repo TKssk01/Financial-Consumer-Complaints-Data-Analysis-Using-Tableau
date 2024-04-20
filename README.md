@@ -1,13 +1,11 @@
 # Financial-Consumer-Complaints-Data-Analysis-Using-Tableau
 Analysing Financial Consumer Complaints Data with using Tableau
 
-![Financial_Complaints_KPI_Analysis_Project (2)](https://user-images.githubusercontent.com/124501309/224553693-ab29f165-698d-49e6-931f-95079852d7e8.png)
+<!--![Financial_Complaints_KPI_Analysis_Project (2)](https://user-images.githubusercontent.com/124501309/224553693-ab29f165-698d-49e6-931f-95079852d7e8.png)-->
 
 ## LINKS:
 
 [Dashboard](https://public.tableau.com/app/profile/takahiro.sasaki1672/viz/TS_FinancialConsumerComplaints/FCCOverview)
-
-[LinkedIn](https://www.linkedin.com/in/takahiro-sasaki-463ab1273/) 🌐
 
 ## OVERVIEW:
     PROJECT NAME
@@ -29,7 +27,7 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
 
 ## APPROACH - PROJECT PLANNING & AIMS GRID: 
 
-### 1. Purpose: What? Why? What do we want to achieve?
+<!--### 1. Purpose: What? Why? What do we want to achieve?
 
       It is critical to analyses customer complaint data to determine the root reasons of consumer unhappiness 
       and make necessary modifications. By analyzing, how intelligent computing may be utilized to better understand 
@@ -112,6 +110,7 @@ Developed Financial Consumer Complaints Dashboard which tracks all complaints an
    3) Maximum complaint are submitted via web approx. 40k.
 
    4) If we talk about product, Maximum no. of complaints are of credit card.
+   -->
 
 
 <!--## NOTE:
