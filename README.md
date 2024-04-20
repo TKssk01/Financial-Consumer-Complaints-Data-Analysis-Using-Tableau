@@ -5,7 +5,7 @@ Analysing Financial Consumer Complaints Data with using Tableau
 
 ## LINKS:
 
-[Dashboard](https://public.tableau.com/app/profile/takahiro.sasaki1672/viz/TS_FinancialConsumerComplaints/FCCOverview)
+[Tableau Dashboard](https://public.tableau.com/app/profile/takahiro.sasaki1672/viz/TS_FinancialConsumerComplaints/FCCOverview)
 
 ## OVERVIEW:
     PROJECT NAME
